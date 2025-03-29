@@ -1,2 +1,2 @@
 # BootCamp-DevJr-Projeto-1-Modulo-2
-Quarto projeto do BootCampDevJr.
+Trafic Light HTML, CSS e JavaScript
