@@ -5,7 +5,6 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 A aplicação simula o funcionamento de um semáforo, iniciando com todas as luzes apagadas. Ao clicar no botão, o semáforo alterna as cores entre **verde**, **amarelo** e **vermelho**, seguindo a ordem correta.
 
 ---
-
 ## 🧠 Conceitos abordados
 
 - Manipulação da DOM com JavaScript
@@ -13,3 +12,8 @@ A aplicação simula o funcionamento de um semáforo, iniciando com todas as luz
 - Estruturação de layout com HTML
 - Ciclo de estados utilizando lógica condicional
 - Eventos de clique
+
+  ---
+
+## 📎 Acesso
+ **Link para o projeto**: https://vinist021.github.io/Projeto_Semaforo/
